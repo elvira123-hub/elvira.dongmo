@@ -1,7 +1,7 @@
 title: "Elvira Gouatieu Dongmo"
 name: "Elvira Gouatieu Dongmo"
 description: "Computational Scientist | Applied Mathematician | AI for Scientific Discovery"
-
+show_downloads: true
 url: "https://elvira123-hub.github.io"
 baseurl: "/elvira.dongmo"
 
@@ -16,12 +16,4 @@ locale: "en-US"
 logo: image/elvi.jpg
 #logo: "/assets/images/elvi.jpg"
 
-include:
-  - _pages
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
