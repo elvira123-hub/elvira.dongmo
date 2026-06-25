@@ -6,7 +6,7 @@ show_downloads: true
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
+  #- jekyll-include-cache
 url: "https://elvira123-hub.github.io"
 baseurl: "/elvira.dongmo"
 lang: en
