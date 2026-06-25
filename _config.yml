@@ -2,11 +2,11 @@ title: "Elvira Gouatieu Dongmo"
 logo: image/elvi.jpg
 description: "Portfolio Computational Scientist"
 show_downloads: true
-theme: jekyll-theme-minimal
-#remote_theme: "mmistakes/minimal-mistakes"
-#plugins:
-  #- jekyll-remote-theme
-  #- jekyll-include-cache
+#theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 url: "https://elvira123-hub.github.io"
 baseurl: "/elvira.dongmo"
 lang: en
