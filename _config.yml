@@ -2,6 +2,6 @@ title: "Elvira Gouatieu Dongmo"
 logo: image/elvi.jpg
 description: "Portfolio Computational Scientist"
 show_downloads: true
-#theme: jekyll-theme-minimal
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
+#remote_theme: "mmistakes/minimal-mistakes"
 lang: en
