@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Elvira Gouatieu Dongmo
+# Dr. rer. nat. Elvira Gouatieu Dongmo
 
 Computational Scientist | Applied Mathematician | AI for Scientific Discovery
 
-## Navigation
+## Elvira's Homepage
 
 [Home]({{ site.baseurl }}/) |
 [Publications]({{ site.baseurl }}/publications/) |
@@ -16,7 +16,7 @@ Computational Scientist | Applied Mathematician | AI for Scientific Discovery
 [Contact]({{ site.baseurl }}/contact/)
 
 
-Short Bio
+## Short Bio
 
 I am a Computational Scientist with four years of expertise in computational modeling, numerical methods, high-performance computing, data analysis, and quantum simulations of complex molecular and materials systems.
 
