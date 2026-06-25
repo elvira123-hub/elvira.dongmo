@@ -20,6 +20,9 @@ title: Home
 
 # Short Bio
 
+I am a Computational Scientist with a strong foundation in applied mathematics, scientific computing, and computational modeling. I completed my PhD in the Department of Theoretical and Computational Chemistry at [Technische Universität Dresden](https://tu-dresden.de/) and in the Department of Energy and Environment at [Helmholtz-Zentrum Dresden-Rossendorf (HZDR)](https://www.hzdr.de/) under the supervision of [Prof. Thomas Heine](https://scholar.google.com/citations?hl=en&user=exeQjFwAAAAJ). During my research, I designed computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy.
+
+
 I am a Computational Scientist with four years of expertise in computational modeling, numerical methods, high-performance computing, data analysis, and quantum simulations of complex molecular and materials systems.
 
 My research combines
