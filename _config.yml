@@ -7,4 +7,5 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
 url: "https://elviradongmo.github.io"
+baseurl: "/portfolio"
 lang: en
