@@ -1,12 +1,27 @@
 title: "Elvira Gouatieu Dongmo"
-logo: image/elvi.jpg
-description: "Portfolio Computational Scientist"
-show_downloads: true
-#theme: jekyll-theme-minimal
+name: "Elvira Gouatieu Dongmo"
+description: "Computational Scientist | Applied Mathematician | AI for Scientific Discovery"
+
+url: "https://elvira123-hub.github.io"
+baseurl: "/elvira.dongmo"
+
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-url: "https://elvira123-hub.github.io"
-baseurl: "/elvira.dongmo"
-lang: en
+
+minimal_mistakes_skin: "default"
+locale: "en-US"
+logo: image/elvi.jpg
+#logo: "/assets/images/elvi.jpg"
+
+include:
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
