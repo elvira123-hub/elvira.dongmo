@@ -1,9 +1,9 @@
 ---
-layout: single
-title: "Publications"
+layout: default
+title: Publications
 permalink: /publications/
 ---
 
-## Publications
+# Publications
 
 Add your publications here.
