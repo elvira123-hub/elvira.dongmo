@@ -1,0 +1,69 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.home-container {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-top: 2rem;
+}
+
+.home-left {
+  flex: 0 0 40%;
+}
+
+.home-right {
+  flex: 1;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 480px;
+  border-radius: 8px;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin-top: 0.8rem;
+}
+
+.github-link {
+  color: #e6a000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
+
+.masthead__menu-item--lg {
+  font-weight: bold;
+}
+
+.greedy-nav a:hover {
+  color: #e6a000;
+}
+
+.home-right h1 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+  }
+
+  .home-left {
+    flex: 100%;
+  }
+
+  .profile-photo {
+    max-width: 100%;
+  }
+}
