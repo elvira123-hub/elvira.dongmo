@@ -1,6 +1,7 @@
-title: "Elvira Dongmo"
+title: "Elvira Gouatieu Dongmo"
 logo: image/elvi.jpg
 description: "Portfolio Computational Scientist"
 show_downloads: true
 theme: jekyll-theme-minimal
 lang: en
+accent_color: "#F2A900"
