@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #F2A900;
+}
+
+a:hover {
+  color: #C98500;
+}
+
+header h1 {
+  color: #F2A900;
+}
+
+.btn {
+  background-color: #F2A900;
+  color: white;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  background-color: #C98500;
+}
