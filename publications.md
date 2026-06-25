@@ -1,5 +1,4 @@
 # Publications
-You can also find my articles on my **[Google Scholar profile](https://scholar.google.com/citations?user=67h5w9AAAAAJ&hl=fr)**.
 ---
 layout: default
 title: Publications
@@ -16,4 +15,4 @@ citation: 'Dongmo, E. G., Haque, S., Kreuter, F., Jin, J., Wulf, T., Tonner-Zech
 ---
 
 
-
+You can also find my articles on my **[Google Scholar profile](https://scholar.google.com/citations?user=67h5w9AAAAAJ&hl=fr)**.
