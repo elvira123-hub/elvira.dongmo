@@ -1,4 +1,3 @@
-# Dr. rer. nat. Elvira Gouatieu Dongmo
 ## Computational Scientist | Applied Mathematician | AI for Scientific Discovery
 
 Welcome to my portfolio!
