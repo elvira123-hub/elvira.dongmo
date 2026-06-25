@@ -2,7 +2,6 @@
 layout: default
 title: Publications
 permalink: /publications/
-
 title: "Direct evidence for ligand-enhanced activity of Cu(I) sites"
 collection: publications
 category: manuscripts
