@@ -36,8 +36,8 @@ Numerical Methods
 Data Analysis
 Quantum Chemistry
 Materials Science
-
 ---
+
 I enjoy building computational tools that help understand complex physical and chemical systems while bridging traditional scientific modeling with modern AI techniques. My research combines
 🔬 Computational Scientist
 💻 Python & C++ Developer
