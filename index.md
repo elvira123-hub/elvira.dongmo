@@ -29,8 +29,8 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 
 ## Areas of Expertise
 
- ✨ Computational Science
- ✨ Applied Mathematics
+* ✨ Computational Science
+* ✨ Applied Mathematics
 * ✨ Scientific Computing
 * ✨ High-Performance Computing (HPC)
 * ✨ Machine Learning for Scientific Discovery
@@ -38,6 +38,5 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 * ✨ Data Analysis
 * ✨ Quantum Chemistry
 * ✨ Materials Science
-
 
 ---
