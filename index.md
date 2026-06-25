@@ -39,4 +39,5 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 * ✨ Quantum Chemistry
 * ✨ Materials Science
 
+
 ---
