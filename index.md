@@ -9,12 +9,13 @@ title: Home
 
 # Elvira's Homepage
 
-##[Home]({{ site.baseurl }}/) |
-##[Publications]({{ site.baseurl }}/publications/) |
-##[Projects]({{ site.baseurl }}/projects/) |
-##[CV]({{ site.baseurl }}/cv/) |
-##[Contact]({{ site.baseurl }}/contact/)
-
+<nav style="font-size:24px; font-weight:600; margin-bottom:25px;">
+  <a href="{{ site.baseurl }}/">Home</a> |
+  <a href="{{ site.baseurl }}/publications/">Publications</a> |
+  <a href="{{ site.baseurl }}/projects/">Projects</a> |
+  <a href="{{ site.baseurl }}/cv/">CV</a> |
+  <a href="{{ site.baseurl }}/contact/">Contact</a>
+</nav>
 
 # Short Bio
 
