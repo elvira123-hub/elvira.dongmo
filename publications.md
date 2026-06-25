@@ -1,4 +1,3 @@
-# Publications
 ---
 layout: default
 title: Publications
@@ -14,5 +13,5 @@ paperurl: "https://doi.org/10.1039/D4SC04582C"
 citation: 'Dongmo, E. G., Haque, S., Kreuter, F., Jin, J., Wulf, T., Tonner-Zech, R., Heine, T., & Asmis, K. R. (2024). <i>Direct evidence for ligand-enhanced activity of Cu(I) sites</i>. <b>Chemical Science</b>, 15, 14635–14643. https://doi.org/10.1039/D4SC04582C'
 ---
 
-
+# Publications
 You can also find my articles on my **[Google Scholar profile](https://scholar.google.com/citations?user=67h5w9AAAAAJ&hl=fr)**.
