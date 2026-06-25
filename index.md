@@ -21,28 +21,22 @@ title: Home
 # Short Bio
 
 <p style="font-size:14px; line-height:1.6;">
-I am a Computational Scientist with a strong foundation in applied mathematics, scientific computing, and computational modeling. I completed my PhD in the Department of Theoretical and Computational Chemistry at <a href="https://tu-dresden.de/">Technische Universität Dresden</a> and in the Institute of Resource Ecology at <a href="https://www.hzdr.de/">Helmholtz-Zentrum Dresden-Rossendorf (HZDR)</a> under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=exeQjFwAAAAJ">Prof. Thomas Heine</a>. During my research, I designed computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy.
+I am a Computational Scientist with a strong foundation in applied mathematics, scientific computing, and computational modeling. I completed my PhD in the Department of Theoretical and Computational Chemistry at <a href="https://tu-dresden.de/">Technische Universität Dresden (TUD)</a> and in the Institute of Resource Ecology at <a href="https://www.hzdr.de/">Helmholtz-Zentrum Dresden-Rossendorf (HZDR)</a> under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=exeQjFwAAAAJ">Prof. Thomas Heine</a>. During my research, I designed computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy.
 </p>
 
 ---
 # Research Interests
 
-Computational Science
-Applied Mathematics
-Scientific Computing
-High-Performance Computing (HPC)
-Machine Learning for Scientific Discovery
-Numerical Methods
-Data Analysis
-Quantum Chemistry
-Materials Science
----
+## Areas of Expertise
 
-I enjoy building computational tools that help understand complex physical and chemical systems while bridging traditional scientific modeling with modern AI techniques. My research combines
-🔬 Computational Scientist
-💻 Python & C++ Developer
-⚛️ Computational Chemistry Researcher
-📈 Scientific Data Analysis
-🤖 Learning Machine Learning for Scientific Applications
-☁️ Interested in Climate Modeling, Digital Science, Scientific AI and Quantum Computing
-🌍 Based in Germany
+* 🔬 Computational Science
+* 📐 Applied Mathematics
+* 💻 Scientific Computing
+* ⚡ High-Performance Computing (HPC)
+* 🤖 Machine Learning for Scientific Discovery
+* 📊 Numerical Methods
+* 📈 Data Analysis
+* ⚛️ Quantum Chemistry
+* 🧪 Materials Science
+
+---
