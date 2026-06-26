@@ -19,7 +19,6 @@ title: Home
   <a href="{{ site.baseurl }}/contact/">Teaching</a> |
   <a href="{{ site.baseurl }}/contact/">CV</a>
 </nav>
-[Presentations]({{ site.baseurl }}/presentations/)
 
 # Short Bio
 
@@ -40,3 +39,4 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 * ✨ Quantum Chemistry
 * ✨ Materials Science
 
+[Presentations]({{ site.baseurl }}/presentations/)
