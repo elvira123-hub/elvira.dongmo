@@ -15,7 +15,7 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 ### [Direct evidence for ligand-enhanced activity of Cu(I) sites](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04582c)
 
 **E. G. Dongmo**, S. Haque, F. Kreuter, J. Jin, T. Wulf, R. Tonner-Zech, T. Heine, K. R. Asmis  
-*Chemical Science*, 2024, 15, 14635–14643.  
+*Chemical Science*, 2024, 15, 14635–14643.
 
 **DOI:** [10.1039/D4SC04582C](https://doi.org/10.1039/D4SC04582C)
 
