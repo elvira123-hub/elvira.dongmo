@@ -1,34 +1,10 @@
-# International Conferences
-
-## 2026
-
-### Nature Communications Paper Presentation
-- Conference
-- Location
-- Date
-- Slides (if available)
-- Poster (if available)
-
+---
+layout: default
+title: Presentations
+permalink: /presentations/
 ---
 
-## 2025
+# Presentations
 
-### ...
-
----
-
-# Workshops
-
-### ...
-
----
-
-# Seminars
-
-### ...
-
----
-
-# Posters
-
-### ...
+I enjoy communicating scientific research to diverse audiences. My presentations focus on computational science, scientific computing, numerical modeling, high-performance computing, and the application of computational methods to AI-driven scientific discovery and advanced materials research.
+```
