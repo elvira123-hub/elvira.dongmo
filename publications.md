@@ -41,10 +41,8 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 
 *Doctoral Dissertation*, **Technische Universität Dresden**, **2026**.
 
-**URL:** https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779
+**URL:** [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779)
 
-
-**Discovery:** 
 ### Research Highlights
 
 * ✨ Developed computational methods for predictive materials discovery using quantum chemistry, numerical modeling, and high-performance computing.
