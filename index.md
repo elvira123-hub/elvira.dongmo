@@ -15,7 +15,7 @@ title: Home
   <a href="{{ site.baseurl }}/presentations/">Presentations</a> |
     <a href="{{ site.baseurl }}/teaching/">Teaching</a> |
   <a href="{{ site.baseurl }}/projects/">Projects</a> |
-  <!--<a href="{{ site.baseurl }}/cv/">CV</a> -->
+  <a href="{{ site.baseurl }}/cv/">CV</a> 
 </nav>
 
 # Short Bio
