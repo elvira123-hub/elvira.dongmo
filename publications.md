@@ -47,10 +47,9 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 **Discovery:** 
 ### Research Highlights
 
-* 🧪 Developed computational methods for predictive materials discovery using quantum chemistry, numerical modeling, and high-performance computing.
-* ⚛️ Demonstrated how ligand engineering and nanoscale confinement amplify nuclear quantum effects to improve isotope selectivity.
-* 🔬 Established predictive design principles for hydrogen and helium isotope separation across molecular and nanoporous materials.
-* 💻 Developed scalable computational workflows for high-throughput materials discovery.
-* 🌍 Advanced computational strategies supporting clean-energy technologies and future nuclear fusion research.
+* ✨ Developed computational methods for predictive materials discovery using quantum chemistry, numerical modeling, and high-performance computing.
+* ✨ Demonstrated how ligand engineering and nanoscale confinement amplify nuclear quantum effects to improve isotope selectivity.
+* ✨ Established predictive design principles for hydrogen and helium isotope separation across molecular and nanoporous materials.
+* ✨ Advanced computational strategies supporting clean-energy technologies and future nuclear fusion research.
 
 
