@@ -5,11 +5,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+  - title: "Presentations"
+    url: /presentations/
 
-  - title: "CV"
-    url: /cv/
+  - title: Software"
+    url: /Software/
 
-  - title: "Contact"
-    url: /contact/
+  - title: "Teaching"
+    url: /Teaching/
+
+
+  - title: "Cv"
+    url: /Cv/
