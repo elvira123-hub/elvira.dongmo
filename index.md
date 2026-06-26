@@ -11,12 +11,14 @@ title: Home
 
 # Home
 
-[Home]({{ site.baseurl }}/) |
-[Publications]({{ site.baseurl }}/publications/) |
-[Presentations]({{ site.baseurl }}/presentations/) |
-[Software]({{ site.baseurl }}/software/) |
-[Teaching]({{ site.baseurl }}/teaching/) |
-[CV]({{ site.baseurl }}/cv/)
+<nav style="font-size:15px; font-weight:600; margin-bottom:25px;">
+  <a href="{{ site.baseurl }}/">Home</a> |
+  <a href="{{ site.baseurl }}/publications/">Publications</a> |
+  <a href="{{ site.baseurl }}/projects/">Presentations</a> |
+  <a href="{{ site.baseurl }}/cv/">Software</a> |
+  <a href="{{ site.baseurl }}/contact/">Teaching</a> |
+  <a href="{{ site.baseurl }}/contact/">CV</a>
+</nav>
 
 # Short Bio
 
