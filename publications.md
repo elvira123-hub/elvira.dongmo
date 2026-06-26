@@ -33,3 +33,24 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 **Discovery:** Designed and implemented advanced numerical methods and scientific computing workflows by integrating finite-difference algorithms, high-performance simulations, state-of-the-art quantum chemistry calculations, and high-throughput computational screening. This work contributes to the development of clean-energy technologies, particularly nuclear fusion systems that rely on helium-3.
 
 <p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract3.jpg" width="200"> </p>
+
+
+### [Computational Design of Materials for the Separation of Hydrogen and Helium Isotopes](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779)
+
+**E. G. Dongmo**
+
+*Doctoral Dissertation*, **Technische Universität Dresden**, **2026**.
+
+**URL:** https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779
+
+
+**Discovery:** 
+### Research Highlights
+
+* 🧪 Developed computational methods for predictive materials discovery using quantum chemistry, numerical modeling, and high-performance computing.
+* ⚛️ Demonstrated how ligand engineering and nanoscale confinement amplify nuclear quantum effects to improve isotope selectivity.
+* 🔬 Established predictive design principles for hydrogen and helium isotope separation across molecular and nanoporous materials.
+* 💻 Developed scalable computational workflows for high-throughput materials discovery.
+* 🌍 Advanced computational strategies supporting clean-energy technologies and future nuclear fusion research.
+
+
