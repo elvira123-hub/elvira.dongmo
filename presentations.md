@@ -20,11 +20,10 @@ I enjoy communicating scientific research to diverse audiences.
 
 
 ## Invited seminars oral presentations
-* ✨
-* ✨
-* ✨ Dresden -- RETREAT STAY
-* ✨  RETREAT STAY
-* ✨  RETREAT STAY
+* ✨ TU Dresden Seminar **2022** ([PDF]({{ site.baseurl }}/assets/dresden_seminar2022.pdf))
+* ✨ Helmholtz-Zentrum Dresden-Rossendorf (HZDR) Seminar **2022** ([PDF]({{ site.baseurl }}/assets/HZDR_seminar2023.pdf))
+* ✨ Group
+
   
 ## Conference poster presentations
 * ✨
