@@ -9,8 +9,8 @@ I enjoy communicating scientific research to diverse audiences.
 
 ## Workshop oral and poster presentations
 [Events of the RTG ¹²³H](https://www.uni-leipzig.de/en/123h/team)
-* ✨ 123<sup>H</sup> Kick-off Workshop ([PDF]({{ site.baseurl }}/files/123H_Kick-off_Workshop2022.pdf))
-* ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2022.pdf))
+* ✨ <sup>123</sup>123 Kick-off Workshop ([PDF]({{ site.baseurl }}/files/123H_Kick-off_Workshop2022.pdf))
+* ✨ <sup>123</sup>123 Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2022.pdf))
 * ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2023.pdf))
 * ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf))
 * ✨ Join Workshop RTG 2721 123<sup>H</sup> (Leipzig) meets RTG 2455 BENCh (Göttingen) ([PDF]({{ site.baseurl }}/files/join_Workshop2024.pdf))
