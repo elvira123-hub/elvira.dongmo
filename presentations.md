@@ -5,5 +5,28 @@ permalink: /presentations/
 ---
 
 # Presentations
+I enjoy communicating scientific research to diverse audiences.
 
-I enjoy communicating scientific research to diverse audiences. My presentations focus on computational science, scientific computing, numerical modeling, high-performance computing, and AI-driven scientific discovery.
+## Workshop oral and poster presentations
+[Events of the RTG ¹²³H](https://www.uni-leipzig.de/en/123h/team)
+* ✨ 123<sup>H</sup> Kick-off Workshop ([PDF]({{ site.baseurl }}/files/123H_Kick-off_Workshop2022.pdf))
+* ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2022.pdf))
+* ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2023.pdf))
+* ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf))
+* ✨ Join Workshop RTG 2721 123<sup>H</sup> (Leipzig) meets RTG 2455 BENCh (Göttingen) ([PDF]({{ site.baseurl }}/files/join_Workshop2024.pdf))
+* ✨ 123<sup>H</sup> Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf))
+* ✨ Final Programme On-Site Review of the RTG 2721 ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf)) ([PDF]({{ site.baseurl }}/files/final_programme2025.pdf))
+* ✨ Dresden -- RETREAT
+
+
+## Invited seminars oral presentations
+* ✨
+* ✨
+* ✨ Dresden -- RETREAT STAY
+* ✨  RETREAT STAY
+* ✨  RETREAT STAY
+  
+## Conference poster presentations
+* ✨
+* ✨
+* ✨
