@@ -14,7 +14,7 @@ title: Home
 <nav style="font-size:15px; font-weight:600; margin-bottom:25px;">
   <a href="{{ site.baseurl }}/">Home</a> |
   <a href="{{ site.baseurl }}/publications/">Publications</a> |
-  <a href="{{ site.baseurl }}/projects/">Presentations</a> |
+  <a href="{{ site.baseurl }}/projects/">presentations</a> |
   <a href="{{ site.baseurl }}/cv/">Software</a> |
   <a href="{{ site.baseurl }}/contact/">Teaching</a> |
   <a href="{{ site.baseurl }}/contact/">CV</a>
@@ -39,4 +39,3 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 * ✨ Quantum Chemistry
 * ✨ Materials Science
 
-[Presentations]({{ site.baseurl }}/presentations/)
