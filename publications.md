@@ -21,5 +21,5 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 
 **Discovery:** By probing dihydrogen adsorption at undercoordinated copper(I) sites, this work uncovers a strong influence of the ligand sphere and coordination geometry on both binding strength and dihydrogen isotopologue separation factors. I demonstrated that undercoordinated metal atoms interact more strongly with lighter isotopes than free ions. This research provides new insights into the rational design of next-generation hydrogen isotope separation technologies.
 
-<p align="center"> <img src="/images/chem_sci_graphical_abstract1.png" width="200"> <img src="/images/chem_sci_graphical_abstract2.png" width="200"> </p>
+<p align="center"> <img src="image/chem_sci_graphical_abstract1.jpg" width="200"> <img src="/images/chem_sci_graphical_abstract2.jpg" width="200"> </p>
 
