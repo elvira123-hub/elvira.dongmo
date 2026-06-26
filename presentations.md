@@ -22,10 +22,10 @@ I enjoy communicating scientific research to diverse audiences.
 ## Invited seminars oral presentations
 * ✨ TU Dresden Seminar **2022** ([PDF]({{ site.baseurl }}/assets/dresden_seminar2022.pdf))
 * ✨ Helmholtz-Zentrum Dresden-Rossendorf (HZDR) Seminar **2022** ([PDF]({{ site.baseurl }}/assets/HZDR_seminar2023.pdf))
-* ✨ Group
+* ✨ Group Retreat in Gölitz and Bad Schandau (AI-Driven Materials Discovery): **New Paradigms in Materials Science** ([Website](https://the-future-of-chemistry.netlify.app/))
 
   
 ## Conference poster presentations
-* ✨
-* ✨
-* ✨
+* ✨ 58th [Symposium on Theoretical Chemistry (STC)](https://agtc.univie.ac.at/?page_id=97) Heidelberg **2022**
+* ✨ 59th [Symposium on Theoretical Chemistry (STC)]([https://agtc.univie.ac.at/?page_id=97](https://www.research-collection.ethz.ch/entities/publication/64f952e9-e69f-40a7-ad93-14d5fa29ea80)) ETH Zurich **2023**
+* ✨ 60th [Symposium on Theoretical Chemistry (STC)]([https://agtc.univie.ac.at/?page_id=97](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00078086)) Braunschweig **2024**
