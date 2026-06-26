@@ -9,15 +9,13 @@ title: Home
 
 # Elvira's Homepage
 
-# Home
-
 <nav style="font-size:15px; font-weight:600; margin-bottom:25px;">
   <a href="{{ site.baseurl }}/">Home</a> |
   <a href="{{ site.baseurl }}/publications/">Publications</a> |
-  <a href="{{ site.baseurl }}/projects/">presentations</a> |
-  <a href="{{ site.baseurl }}/cv/">Software</a> |
-  <a href="{{ site.baseurl }}/contact/">Teaching</a> |
-  <a href="{{ site.baseurl }}/contact/">CV</a>
+  <a href="{{ site.baseurl }}/presentations/">Presentations</a> |
+  <a href="{{ site.baseurl }}/software/">Software</a> |
+  <a href="{{ site.baseurl }}/teaching/">Teaching</a> |
+  <a href="{{ site.baseurl }}/cv/">CV</a>
 </nav>
 
 # Short Bio
