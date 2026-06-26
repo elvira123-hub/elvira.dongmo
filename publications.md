@@ -14,8 +14,7 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 
 ### [Direct evidence for ligand-enhanced activity of Cu(I) sites](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04582c)
 
-**E. G. Dongmo**, S. Haque, F. Kreuter, J. Jin, T. Wulf, R. Tonner-Zech, T. Heine, K. R. Asmis  
-*Chemical Science*, 2024, 15, 14635–14643.
+**E. G. Dongmo**, S. Haque, F. Kreuter, J. Jin, T. Wulf, R. Tonner-Zech, T. Heine, K. R. Asmis  *Chemical Science*, **2024**, 15, 14635–14643.
 
 **DOI:** [10.1039/D4SC04582C](https://doi.org/10.1039/D4SC04582C)
 
@@ -27,7 +26,7 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 ### [Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)
 
 **E. G. Dongmo**, S. Das, F. Moncada, T. Riemer-Wulf, T. Heine  
-*Nature Communications*, **2026**, **17**, 2952.
+*Nature Communications*, **2026**, 17, 2952.
 
 **DOI:** [10.1038/s41467-026-70901-6](https://doi.org/10.1038/s41467-026-70901-6)
 
