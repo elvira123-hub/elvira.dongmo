@@ -6,13 +6,14 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /Presentations/
+    url: /presentations/
 
   - title: Software"
-    url: /Software/
+    url: /software/
 
   - title: "Teaching"
-    url: /Teaching/
+    url: /teaching/
 
   - title: "Cv"
-    url: /Cv/
+    url: /cv/
+
