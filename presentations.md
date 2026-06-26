@@ -15,7 +15,7 @@ I enjoy communicating scientific research to diverse audiences.
 * ✨ <sup>123</sup>H Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf))
 * ✨ Join Workshop RTG 2721 <sup>123</sup>H (Leipzig) meets RTG 2455 BENCh (Göttingen) ([PDF]({{ site.baseurl }}/files/join_Workshop2024.pdf))
 * ✨ <sup>123</sup>H Annual Workshop ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf))
-* ✨ Final Programme On-Site Review of the RTG 2721 ([PDF]({{ site.baseurl }}/files/123H_annual_Workshop2024.pdf)) ([PDF]({{ site.baseurl }}/files/final_programme2025.pdf))
+* ✨ Final Programme On-Site Review of the RTG 2721 ([PDF]({{ site.baseurl }}/assets/announce2025.pdf))([PDF]({{ site.baseurl }}/assets/poster2025.pdf)) ([PDF]({{ site.baseurl }}/assets/powerpoint2025.pdf))
 * ✨ Dresden -- RETREAT
 
 
