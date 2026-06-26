@@ -1,7 +1,3 @@
----
-title: Presentations
-permalink: /presentations/
----
 
 # Presentations
 
