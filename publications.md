@@ -32,3 +32,4 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 
 **Discovery:** Designed and implemented advanced numerical methods and scientific computing workflows by integrating finite-difference algorithms, high-performance simulations, state-of-the-art quantum chemistry calculations, and high-throughput computational screening. This work contributes to the development of clean-energy technologies, particularly nuclear fusion systems that rely on helium-3.
 
+<p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract3.jpg" width="200"> </p>
