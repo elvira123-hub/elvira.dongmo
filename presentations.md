@@ -1,37 +1,42 @@
-# International Conferences
+---
+layout: default
+title: Presentations
+---
 
-## 2026
+# Presentations
 
-### Nature Communications Paper Presentation
-- Conference
-- Location
-- Date
-- Slides (if available)
-- Poster (if available)
+I enjoy communicating scientific research to diverse audiences through conference talks, poster presentations, seminars, and workshops.
 
 ---
 
-## 2025
+## International Conferences
 
-### ...
+### 2024 — Symposium on Theoretical Chemistry
+**Braunschweig, Germany**
 
----
-
-# Workshops
-
-### ...
+**Title:**
+Prediction of strong Cu(I)-He interaction at open metal sites enables isotope-selective helium adsorption
 
 ---
 
-# Seminars
+### 2023 — Symposium on Theoretical Chemistry
+**ETH Zürich, Switzerland**
 
-### ...
+Poster presentation
 
 ---
 
-# Posters
+### 2022 — Symposium on Theoretical Chemistry
+**Heidelberg, Germany**
 
-### ...
+Poster presentation
 
+---
 
-I enjoy communicating scientific research to diverse audiences.
+## Research Stays
+
+### University of Graz, Austria
+
+Research visit on high-level vibrational calculations and computational workflows.
+
+---
