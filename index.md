@@ -9,7 +9,7 @@ title: Home
 
 # Elvira's Homepage
 
-<nav style="font-size:15px; font-weight:600; margin-bottom:25px;">
+<nav style="font-size:18px; font-weight:600; margin-bottom:25px;">
   <a href="{{ site.baseurl }}/">Home</a> |
   <a href="{{ site.baseurl }}/publications/">Publications</a> |
   <a href="{{ site.baseurl }}/presentations/">Presentations</a> |
