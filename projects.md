@@ -10,7 +10,8 @@ Welcome to my collection of projects. You can also find the source codes used in
 
 ## Machine Learning Projects
 🔗 **Projects in Machine Learning (Neural Networks):**  
-https://github.com/elvira123-hub/Machine_Learning_Projects
+🔗 **AI4Chem:** [Machine Learning Projects](https://github.com/elvira123-hub/Machine_Learning_Projects)
+
 
 This project emphasize:
 - 🧠 Neural network fundamentals and deep learning
