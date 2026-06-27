@@ -27,7 +27,7 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 
 # Areas of Expertise
 
-<ul style="font-size:16px; line-height:1.8;">
+<ul style="font-size:18px; line-height:1.8;">
   <li>✨ Computational Science</li>
   <li>✨ Applied Mathematics</li>
   <li>✨ Scientific Computing</li>
