@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
 # Projects
 
 Welcome to my collection of projects. You can also find the source codes used in my recent research publications on my **[GitHub](https://github.com/elvira123-hub/)**.
