@@ -25,15 +25,18 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 </p>
 
 <div style="font-size:16px; line-height:1.8;">
+
 ## Areas of Expertise
-* ✨ Computational Science
-* ✨ Applied Mathematics
-* ✨ Scientific Computing
-* ✨ High-Performance Computing (HPC)
-* ✨ Machine Learning for Scientific Discovery
-* ✨ Numerical Methods
-* ✨ Data Analysis
-* ✨ Quantum Chemistry
-* ✨ Materials Science
+
+- ✨ Computational Science
+- ✨ Applied Mathematics
+- ✨ Scientific Computing
+- ✨ High-Performance Computing (HPC)
+- ✨ Machine Learning for Scientific Discovery
+- ✨ Numerical Methods
+- ✨ Data Analysis
+- ✨ Quantum Chemistry
+- ✨ Materials Science
+
 </div>
 
