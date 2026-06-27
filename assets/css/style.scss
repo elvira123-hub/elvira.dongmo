@@ -24,3 +24,20 @@ header h1 {
 .btn:hover {
   background-color: #C98500;
 }
+
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
