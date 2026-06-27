@@ -24,26 +24,10 @@ title: Home
 I am a Computational Scientist with a strong foundation in applied mathematics, scientific computing, and computational modeling. I completed my PhD in the Department of Theoretical and Computational Chemistry at <a href="https://tu-dresden.de/">Technische Universität Dresden (TUD)</a> and in the Institute of Resource Ecology at <a href="https://www.hzdr.de/">Helmholtz-Zentrum Dresden-Rossendorf (HZDR)</a> under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=exeQjFwAAAAJ">Prof. Thomas Heine</a>. During my research, I designed computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy.
 </p>
 
-<div style="font-size:16px; line-height:1.8;">
 
-## Areas of Expertise
+<h2 style="font-size:14px;">Areas of Expertise</h2>
 
-- ✨ Computational Science
-- ✨ Applied Mathematics
-- ✨ Scientific Computing
-- ✨ High-Performance Computing (HPC)
-- ✨ Machine Learning for Scientific Discovery
-- ✨ Numerical Methods
-- ✨ Data Analysis
-- ✨ Quantum Chemistry
-- ✨ Materials Science
-
-</div>
-
-
-<h2 style="font-size:36px;">Areas of Expertise</h2>
-
-<ul style="font-size:24px; line-height:1.8;">
+<ul style="font-size:14px; line-height:1.8;">
   <li>✨ Computational Science</li>
   <li>✨ Applied Mathematics</li>
   <li>✨ Scientific Computing</li>
