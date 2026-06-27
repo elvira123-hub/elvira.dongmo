@@ -14,10 +14,10 @@ Welcome to my collection of projects. You can also find the source codes used in
 
 
 This project emphasize:
-- 🧠 Neural network fundamentals and deep learning
-- ⚛️ Prediction of molecular and *ab initio* energies
-- 📈 Data-driven modeling of potential energy surfaces (PES)
-- 🔬 Applications of AI to computational chemistry and materials science
+* ✨ Neural network fundamentals and deep learning
+* ✨ Prediction of molecular and *ab initio* energies
+* ✨ Data-driven modeling of potential energy surfaces (PES)
+* ✨ Applications of AI to computational chemistry and materials science
 
 
 ## Numerical Solution of the Time-Independent Schrödinger Equation (TISE)
