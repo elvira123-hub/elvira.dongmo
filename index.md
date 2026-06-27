@@ -25,7 +25,7 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 </p>
 
 
-<h2 style="font-size:16px;">Areas of Expertise</h2>
+<h2 style="font-size:18px;">Areas of Expertise</h2>
 
 <ul style="font-size:14px; line-height:1.8;">
   <li>✨ Computational Science</li>
