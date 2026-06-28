@@ -31,6 +31,6 @@ I enjoy communicating scientific research to diverse audiences.
 * ✨ 60th [Symposium on Theoretical Chemistry (STC)](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00078086) Braunschweig **2024**
 
 
-## 🥉HYPMOL--Awards ([PDF]({{ site.baseurl }}/assets/3MT_elvira_dongmo.pdf))
-✨ Selected speaker at the [JCF Leipzig Three Minute Thesis (3MT) Competition 2024](https://www.hypmol.net/event/jcf-leipzig-three-minute-thesis-2024/), presenting my doctoral research in a three-minute scientific pitch. Leipzig, Germany (**2024**).
+## 🥉HYPMOL--Awards
+✨ Selected speaker at the [JCF Leipzig Three Minute Thesis (3MT) Competition 2024](https://www.hypmol.net/event/jcf-leipzig-three-minute-thesis-2024/), presenting my doctoral research in a three-minute scientific pitch. Leipzig, Germany (**2024**). ([PDF]({{ site.baseurl }}/assets/3MT_elvira_dongmo.pdf))
 
