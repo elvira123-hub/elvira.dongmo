@@ -64,7 +64,7 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 
 ## Research Visits & Scientific Excursions
 
-| Description | Activity | Date |
+| Description &  Activity | Organization | Date |
 |-------------|----------|------|
 | Developed efficient computational protocols for high-level anharmonic vibrational frequency analysis and advanced computational workflows for high-precision quantum chemistry simulations. | **Research Stay**, *University of Graz, Austria* | **22.01–04.02.2023** |
 | Gained hands-on experience with experimental techniques through collaboration with experimentalists, including ion monitoring, quadrupole mass spectrometry (QMS), and infrared photodissociation (IRPD) spectroscopy. | **Research Stay**, *University of Leipzig, Germany* | **15–19.01.2024** |
