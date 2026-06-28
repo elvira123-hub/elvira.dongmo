@@ -15,7 +15,7 @@ permalink: /teaching/
 
 # Teaching
 
-**High School Mathematics, Physics and Chemistry Teacher**
+**High School Physics and Chemistry Teacher**
 
 Djebem High School, Cameroon **2019-2020**
 
