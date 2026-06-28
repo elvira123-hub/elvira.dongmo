@@ -71,5 +71,18 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 | Visited the ITER research facility and engaged with international researchers to explore challenges and innovations in nuclear fusion and sustainable energy technologies. | **Scientific Excursion**, *ITER, Marseille, France* | **07.2023** |
 | Participated in laboratory visits and scientific discussions on hydrogen isotope technologies and their applications in nuclear fusion research. | **Laboratory Tour**, *Karlsruhe Institute of Technology (KIT), Germany* | **07.2023** |
 
+## Languages
 
+| Language | Proficiency |
+|----------|-------------|
+| **French** | Native |
+| **English** | C1 – Professional proficiency |
+| **German** | B1 – Working proficiency *(actively improving to B2)* |
+| **Spanish** | A1 – Basic |
+
+## Interests
+
+| Interests |
+|-----------|
+| Reading • Running • Traveling • Sewing • Creative Interior Design|
 
