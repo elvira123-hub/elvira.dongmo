@@ -71,6 +71,20 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 | Visited the ITER research facility and engaged with international researchers to explore challenges and innovations in nuclear fusion and sustainable energy technologies. | **Scientific Excursion**, *ITER, Marseille, France* | **07.2023** |
 | Participated in laboratory visits and scientific discussions on hydrogen isotope technologies and their applications in nuclear fusion research. | **Laboratory Tour**, *Karlsruhe Institute of Technology (KIT), Germany* | **07.2023** |
 
+## Software Skills
+
+| Category | Skills |
+|----------|--------|
+| **Technical Expertise** | Numerical Analysis, High-Performance Computing (HPC), Parallel Computing, Machine Learning for Beginners ([PDF]({{ site.baseurl }}/assets/ML_certificate-1.pdf)); Supervised Machine Learning: Regression and Classification ([PDF]({{ site.baseurl }}/assets/ML_certificate-2.pdf)); Advanced Learning Algorithms ([PDF]({{ site.baseurl }}/assets/ML_certificate-3.pdf)) |
+| **Programming** | Python *(NumPy, Pandas, SciPy, TensorFlow, Keras)*, C/C++ |
+| **Quantum Chemistry Software** | Gaussian, CFOUR, Molpro, ORCA, Jmol, ADF-SCM, VESTA |
+| **Scientific & Productivity Tools** | Microsoft Office *(Word, Excel, PowerPoint)*, LaTeX |
+| **Operating Systems** | Linux *(Ubuntu)*, Windows |
+| **Databases** | SQL |
+| **Version Control** | Git, GitHub ([elvira123-hub](https://github.com/elvira123-hub)), GitLab |
+| **Core Competencies** | Quantitative Modeling, Scientific Computing, Structured Problem Solving, Scientific Programming, Project Coordination, Stakeholder Communication |
+
+
 ## Languages
 
 | Language | Proficiency |
