@@ -41,12 +41,12 @@ permalink: /cv/
 
 ## Scholarships & Awards
 
-| Award | Organization | Date |
+| Scholarships & Awards | Organization | Date |
 |:------|:-------------|:----:|
-| **Research Training Group 2721 “Hydrogen Isotopes ¹²³H” funded by the German Research Foundation DFG | *Leipzig University, Germany* | **2021-2026** |
-| **Helmholtz-Zentrum Dresden-Rossendorf (HZDR)** | *Leipzig, Germany* | **2021-2025** |
+| **Doctoral Research Funding** | *Research Training Group 2721 “Hydrogen Isotopes ¹²³H” funded by the German Research Foundation DFG, Leipzig University, Germany* | **2021-2026** |
+| **Doctoral Research Funding** | *Helmholtz-Zentrum Dresden-Rossendorf (HZDR),Leipzig, Germany* | **2021-2025** |
 | **Start-up Funding, The Collaborative Research Centre (CRC) 1415** | *Technische Universität Dresden (TUD), Germany* | **2021** |
-| **Third Prize**, *Three Minute Thesis (3MT) Competition* | Gesellschaft Deutscher Chemiker (GDCh), JCF | **07.2024** |
+| **Third Prize**, *Three Minute Thesis (3MT) Competition* | *Gesellschaft Deutscher Chemiker (GDCh), JCF* | **07.2024** |
 | **Merit Student Award**, ranked **1st out of 41 undergraduate students** | *University of Dschang, Cameroon* | **10.2017** |
 | **Recipient of multiple awards recognizing academic excellence** | *University of Dschang, Cameroon* | **(2016-2019)** |
 
