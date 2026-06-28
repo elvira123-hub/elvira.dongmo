@@ -4,8 +4,16 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
+<nav style="font-size:18px; font-weight:600; margin-bottom:25px;">
+  <a href="{{ site.baseurl }}/">Home</a> |
+  <a href="{{ site.baseurl }}/publications/">Publications</a> |
+  <a href="{{ site.baseurl }}/presentations/">Presentations</a> |
+    <a href="{{ site.baseurl }}/teaching/">Teaching</a> |
+  <a href="{{ site.baseurl }}/projects/">Projects</a> |
+  <a href="{{ site.baseurl }}/cv/">CV</a> 
+</nav>
 
+# Teaching
 
 **High School Mathematics, Physics and Chemistry Teacher**
 
