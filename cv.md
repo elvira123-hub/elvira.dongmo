@@ -39,9 +39,9 @@ permalink: /cv/
 | **PhD Researcher: Laboratory of the Future – Robotics in Chemistry** | *LNDWDD 2023, Germany* | **06.2023** |
 | **High School Mathematics, Physics and Chemistry Teacher** | *Djebem High School, Cameroon* | **09.2019–06.2020** |
 
-## Scholarships & Awards
+## Awards, Scholarships & Research Funding
 
-| Scholarships & Awards | Organization | Date |
+| Awards, Scholarships & Research Funding | Organization | Date |
 |:------|:-------------|:----:|
 | **Doctoral Research Funding** | *Research Training Group 2721 “Hydrogen Isotopes ¹²³H” funded by the German Research Foundation DFG, Leipzig University, Germany* | **2021-2026** |
 | **Doctoral Research Funding** | *Helmholtz-Zentrum Dresden-Rossendorf (HZDR),Leipzig, Germany* | **2021-2025** |
