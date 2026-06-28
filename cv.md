@@ -95,7 +95,7 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 | **Spanish** | A1 – Basic |
 
 ## Interests
-
+| |
 |-----------|
 | Reading • Running • Traveling • Sewing • Creative Interior Design|
 
