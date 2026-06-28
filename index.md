@@ -42,5 +42,6 @@ I developed robust computational models and high-performance simulation workflow
 # Research Interests
 <ul style="font-size:17px; line-height:1.8;">
   <li>✨ Artificial Intelligence & Machine Learning</li>
-  <li>✨ Laboratory Automation & Robotics</li>
+  <li>✨ Automation Systems Researcher</li>
+  <li>✨ Data Scientist</li>
 </ul>
