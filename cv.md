@@ -96,7 +96,6 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 
 ## Interests
 
-| Interests |
 |-----------|
 | Reading • Running • Traveling • Sewing • Creative Interior Design|
 
