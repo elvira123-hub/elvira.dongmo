@@ -99,8 +99,8 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 | Author | Title | Degree | Institution | Date |
 |--------|-------|--------|-------------|------|
 | **Elvira Gouatieu Dongmo** | *Computational Design of Materials for the Separation of Hydrogen and Helium Isotopes[URL](https://nbn-resolving.de/urn:nbn:de:bsz:14-qucosa2-1050779)* | Ph.D. in Theoretical & Computational Chemistry | Technische Universität Dresden (TUD), Germany | **02.2026** |
-| **Elvira Gouatieu Dongmo** | *Data Assimilation for Tracer Transport Problem[PDF]({{ site.baseurl }}/assets/master_elvira_aims.pdf)* | Master of Mathematical Sciences (M.Sc.) | African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda | **06.2021** |
-| **Elvira Gouatieu Dongmo** | *Numerical Modeling and Simulation of the Mechanical Behavior of Composite Materials[PDF]({{ site.baseurl }}/assets/master_dschang.pdf)* | Master of Science (M.Sc.) | University of Dschang, Cameroon | **07.2019** |
+| **Elvira Gouatieu Dongmo** | *Data Assimilation for Tracer Transport Problem[PDF]({{ site.baseurl }}/assets/master_elvira_aims.pdf)* | Master in Applied Mathematics (M.Sc.) | African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda | **06.2021** |
+| **Elvira Gouatieu Dongmo** | *Numerical Modeling and Simulation of the Mechanical Behavior of Composite Materials[PDF]({{ site.baseurl }}/assets/master_dschang.pdf)* | Master in Theoretical Physics (M.Sc.) | University of Dschang, Cameroon | **07.2019** |
 
 ## Languages
 
