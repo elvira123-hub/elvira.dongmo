@@ -75,8 +75,8 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 
 | Description &  Activity | Organization | Date |
 |-------------|----------|------|
-| Developed efficient computational protocols for high-level anharmonic vibrational frequency analysis and advanced computational workflows for high-precision quantum chemistry simulations. | **Research Stay**, *University of Graz, Austria* | **22.01–04.02.2023** |
 | Gained hands-on experience with experimental techniques through collaboration with experimentalists, including ion monitoring, quadrupole mass spectrometry (QMS), and infrared photodissociation (IRPD) spectroscopy. | **Research Stay**, *University of Leipzig, Germany* | **15–19.01.2024** |
+| Developed efficient computational protocols for high-level anharmonic vibrational frequency analysis and advanced computational workflows for high-precision quantum chemistry simulations. | **Research Stay**, *University of Graz, Austria* | **22.01–04.02.2023** |
 | Visited the ITER research facility and engaged with international researchers to explore challenges and innovations in nuclear fusion and sustainable energy technologies. | **Scientific Excursion**, *ITER, Marseille, France* | **07.2023** |
 | Participated in laboratory visits and scientific discussions on hydrogen isotope technologies and their applications in nuclear fusion research. | **Laboratory Tour**, *Karlsruhe Institute of Technology (KIT), Germany* | **07.2023** |
 
