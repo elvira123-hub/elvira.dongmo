@@ -35,7 +35,7 @@ I enjoy communicating scientific research to diverse audiences.
 
   
 ## Conference poster presentations
-* ✨ 60th [Symposium on Theoretical Chemistry (STC)](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00078086) Braunschweig **2024**
+* ✨ 60th [Symposium on Theoretical Chemistry](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00078086) Braunschweig **2024**
 * ✨ 59th [Symposium on Theoretical Chemistry (STC)](https://www.research-collection.ethz.ch/entities/publication/64f952e9-e69f-40a7-ad93-14d5fa29ea80) ETH Zurich **2023**
 * ✨ 58th [Symposium on Theoretical Chemistry (STC)](https://agtc.univie.ac.at/?page_id=97) Heidelberg **2022**
 
