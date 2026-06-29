@@ -17,7 +17,7 @@ permalink: /presentations/
 I enjoy communicating scientific research to diverse audiences.
 
 ## Workshop oral and poster presentations
-[Events of the RTG ¹²³H](https://www.uni-leipzig.de/en/123h/team)
+[Events of the RTG "Hydrogen Isotopes (¹²³H)."](https://www.uni-leipzig.de/en/123h/team)
 <!-- * ✨ <sup>123</sup>H Kick-off Workshop **2022** ([PDF]({{ site.baseurl }}/files/123H_Kick-off_Workshop2022.pdf)) -->
 * ✨ Final Programme of the RTG 2721 **2025** ([PDF]({{ site.baseurl }}/assets/announce2025.pdf))([PDF]({{ site.baseurl }}/assets/poster2025.pdf)) ([PDF]({{ site.baseurl }}/assets/powerpoint2025.pdf))
 * ✨ Join Workshop RTG 2721 <sup>123</sup>H (Leipzig) meets RTG 2455 BENCh (Göttingen) **2024** ([PDF]({{ site.baseurl }}/files/join_Workshop2024.pdf))([PDF]({{ site.baseurl }}/files/join_Workshop2024.pdf))
