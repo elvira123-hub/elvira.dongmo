@@ -25,7 +25,7 @@ I am a Computational Scientist with a strong foundation in applied mathematics, 
 </p>
 
 <p style="font-size:16px; line-height:1.6;">
-I developed robust computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy.
+I developed robust computational models and high-performance simulation workflows to address complex challenges in chemistry, materials science, and sustainable energy. I bring to the table advanced expertise in numerical modelling, data analysis, and scientific programming.
 </p>
 
 
