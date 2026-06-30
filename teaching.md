@@ -19,7 +19,7 @@ permalink: /teaching/
 
 Djebem High School, Cameroon **2019-2020**
 
-* ✨ Taught clearly structured lessons to four classes (Mathematics, Physics, and Chemistry) of students aged 13–18, guiding them toward academic success and preparation for university.
+* ✨ Taught clearly structured lessons to four classes (Physics and Chemistry) of students aged 13–18, guiding them toward academic success and preparation for university.
 * ✨ Collaborated closely with colleagues to design and deliver engaging lessons.
 * ✨ Managed classroom materials and resources.
 * ✨ Coordinated lessons for approximately 50 students in each class.
