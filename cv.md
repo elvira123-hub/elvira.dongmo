@@ -106,10 +106,10 @@ See [Publications]({{ site.baseurl }}/teaching/) for the full list.
 
 | Language | Proficiency |
 |----------|-------------|
+| **English** | Professional proficiency |
+| **German** | Working proficiency |
 | **French** | Native |
-| **English** | C1 – Professional proficiency |
-| **German** | B1 – Working proficiency *(actively improving to B2)* |
-| **Spanish** | A1 – Basic |
+| **Spanish** | Basic |
 
 ## Interests
 
