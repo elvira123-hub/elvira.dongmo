@@ -35,7 +35,7 @@ I developed robust computational models and high-performance simulation workflow
 <ul style="font-size:17px; line-height:1.8;">
   <li>✨ Applied Mathematics & Numerical Modeling</li>
   <li>✨ Data Analysis & Scientific Computing</li>
-  <li>✨ Computational Physics, Chemistry & Materials Science</li>
+  <li>✨ Computational Chemistry & Materials Science</li>
   <li>✨ High-Performance Computing (HPC)</li>
 </ul>
 
