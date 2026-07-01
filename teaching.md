@@ -28,7 +28,7 @@ Djebem High School, Cameroon **2019-2020**
 
 **Teaching assistant (TA): Quantum Chemistry**
 
-Graduate course, TU Dresden, Faculty of Chemistry and Food Chemistry, **2024-2025**
+Graduate course, TU Dresden, Faculty of Chemistry, **2024-2025**
 
 * ✨ Mentored and supported master’s students in computational chemistry and programming.
 * ✨ Assisted students in implementing quantum chemistry calculations.
@@ -38,6 +38,6 @@ Graduate course, TU Dresden, Faculty of Chemistry and Food Chemistry, **2024-202
 **Teaching assistant (TA): Hands-on sessions for the 2D Materials - Physics of van der Waals [hetero]structures**
 [2DMP Summer School 2023 – Simulation of van der Waals [hetero]structures](https://2dmp.tu-dresden.de/events/summer-school-2023/)
 
-DFG Priority program 2244, TU Dresden, Faculty of Chemistry and Food Chemistry, **2023**
+DFG Priority program 2244, TU Dresden, Faculty of Chemistry, **2023**
 
 **Topic:** Simulation of van der Waals [hetero]structures.
