@@ -29,9 +29,9 @@ I enjoy communicating scientific research to diverse audiences.
 
 
 ## Invited seminars oral presentations
+* ✨ Group Retreat in Gölitz and Bad Schandau (AI-Driven Materials Discovery): **Machine Learning For Interatomic Potentials And Materials Discovery** **2025** ([PDF]({{ site.baseurl }}/assets/HZDR_seminar2023.pdf)) ([Website](https://the-future-of-chemistry.netlify.app/))
 * ✨ Helmholtz-Zentrum Dresden-Rossendorf Seminar **2023** ([PDF]({{ site.baseurl }}/assets/HZDR_seminar2023.pdf))
 * ✨ TU Dresden Seminar **2022** ([PDF]({{ site.baseurl }}/assets/dresden_seminar2022.pdf))
-* ✨ Group Retreat in Gölitz and Bad Schandau (AI-Driven Materials Discovery): **New Paradigms in Materials Science** ([Website](https://the-future-of-chemistry.netlify.app/))
 
   
 ## Conference poster presentations
