@@ -21,6 +21,27 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 
 ## 03 Publications
 
+### [Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)
+
+**E. G. Dongmo**, S. Das, F. Moncada, T. Riemer-Wulf, T. Heine  
+*Nature Communications*, **2026**, 17, 2952.
+
+**DOI:** [10.1038/s41467-026-70901-6](https://doi.org/10.1038/s41467-026-70901-6)
+
+**Discovery:** Designed and implemented advanced numerical methods and scientific computing workflows by integrating finite-difference algorithms, high-performance simulations, state-of-the-art quantum chemistry calculations, and high-throughput computational screening. This work contributes to the development of clean-energy technologies, particularly nuclear fusion systems that rely on helium-3.
+
+<!--<p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract3.jpg" width="200"> </p>-->
+<p align="center"> <img src="{{ site.baseurl }}/image/helium_separation.png" width="500"> </p>
+
+
+### [Assessing the Limits of He Isotope Separation Under Confinement in Nanoporous Materials](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15010286/v2)
+
+**E. G. Dongmo**, F. Moncada, S. Das, T. Riemer-Wulf, T. Heine  
+*ChemRxiv preprints*, **2026**
+In this study, we demonstrate that it is theoretically possible to design a chemical affinity quantum sieving material with 100% isotope selectivity, operating between 20 K (0.3 - 30 bar) and 77 K (2-6 kbar). We therefore provide a rational design strategy for materials with unprecedentedly large He isotope separation factors at elevated temperatures.
+<p align="center"> <img src="{{ site.baseurl }}/image/confinement.png" width="500"> </p>
+
+
 ### [Direct evidence for ligand-enhanced activity of Cu(I) sites](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04582c)
 
 **E. G. Dongmo**, S. Haque, F. Kreuter, J. Jin, T. Wulf, R. Tonner-Zech, T. Heine, K. R. Asmis  *Chemical Science*, **2024**, 15, 14635–14643.
@@ -33,17 +54,6 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 <p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract1.jpg" width="200"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract2.png" width="200"> </p>
 
 
-### [Prediction of strong Cu(I)–He interaction at open metal sites enables isotope-selective helium adsorption](https://www.nature.com/articles/s41467-026-70901-6)
-
-**E. G. Dongmo**, S. Das, F. Moncada, T. Riemer-Wulf, T. Heine  
-*Nature Communications*, **2026**, 17, 2952.
-
-**DOI:** [10.1038/s41467-026-70901-6](https://doi.org/10.1038/s41467-026-70901-6)
-
-**Discovery:** Designed and implemented advanced numerical methods and scientific computing workflows by integrating finite-difference algorithms, high-performance simulations, state-of-the-art quantum chemistry calculations, and high-throughput computational screening. This work contributes to the development of clean-energy technologies, particularly nuclear fusion systems that rely on helium-3.
-
-<!--<p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract3.jpg" width="200"> </p>-->
-<p align="center"> <img src="{{ site.baseurl }}/image/helium_separation.png" width="500"> </p>
 
 ### [Computational Design of Materials for the Separation of Hydrogen and Helium Isotopes](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779)
 
