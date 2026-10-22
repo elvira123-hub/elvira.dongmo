@@ -43,7 +43,7 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 **Discovery:** Designed and implemented advanced numerical methods and scientific computing workflows by integrating finite-difference algorithms, high-performance simulations, state-of-the-art quantum chemistry calculations, and high-throughput computational screening. This work contributes to the development of clean-energy technologies, particularly nuclear fusion systems that rely on helium-3.
 
 <!--<p align="center"> <img src="{{ site.baseurl }}/image/chem_sci_graphical_abstract3.jpg" width="200"> </p>-->
-<p align="center"> <img src="{{ site.baseurl }}/image/helium_separation.png" width="200"> </p>
+<p align="center"> <img src="{{ site.baseurl }}/image/helium_separation.png" width="500"> </p>
 
 ### [Computational Design of Materials for the Separation of Hydrogen and Helium Isotopes](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-1050779)
 
