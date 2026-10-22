@@ -39,7 +39,7 @@ You can also find my articles on my **[Google Scholar profile](https://scholar.g
 **E. G. Dongmo**, F. Moncada, S. Das, T. Riemer-Wulf, T. Heine  
 *ChemRxiv preprints*, **2026**
 In this study, we demonstrate that it is theoretically possible to design a chemical affinity quantum sieving material with 100% isotope selectivity, operating between 20 K (0.3 - 30 bar) and 77 K (2-6 kbar). We therefore provide a rational design strategy for materials with unprecedentedly large He isotope separation factors at elevated temperatures.
-<p align="center"> <img src="{{ site.baseurl }}/image/confinement.png" width="500"> </p>
+<p align="center"> <img src="{{ site.baseurl }}/image/confinement.png" width="350"> </p>
 
 
 ### [Direct evidence for ligand-enhanced activity of Cu(I) sites](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04582c)
